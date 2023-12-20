@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/neuroph-contrib-2.98.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/neuroph-contrib-2.98-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/neuroph-contrib-2.98-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/neuroph-core-2.98.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/neuroph-core-2.98-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/neuroph-core-2.98-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/ajt-2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/android-1.5_r4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/visrec-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/visrec-api-1.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/resul/OneDrive/Masaüstü/Framework/libs/visrec-api-1.0.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
